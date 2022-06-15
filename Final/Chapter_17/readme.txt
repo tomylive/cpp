@@ -1,1 +1,0 @@
-Files source2.cpp to source6.cpp are deliberately made to fail the compilation. The comments in the files provide the rationale behind this.

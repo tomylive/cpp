@@ -1,6 +1,0 @@
-void myvoidfunction();
-
-int main()
-{
-
-}
